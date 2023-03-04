@@ -25,6 +25,7 @@
     {"name":"RedGui","order":3,"path":"sprites/RedGui/RedGui.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Yup","order":2,"path":"objects/Yup/Yup.yy",},
+    {"name":"Title","order":1,"path":"fonts/Title/Title.yy",},
     {"name":"Folder","order":1,"path":"sprites/Folder/Folder.yy",},
   ],
 }

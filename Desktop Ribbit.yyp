@@ -45,6 +45,7 @@
     {"id":{"name":"Yup","path":"objects/Yup/Yup.yy",},"order":2,},
     {"id":{"name":"NineByFive","path":"fonts/NineByFive/NineByFive.yy",},"order":0,},
     {"id":{"name":"activateConfirmation","path":"scripts/activateConfirmation/activateConfirmation.yy",},"order":0,},
+    {"id":{"name":"Title","path":"fonts/Title/Title.yy",},"order":1,},
     {"id":{"name":"Folder","path":"sprites/Folder/Folder.yy",},"order":1,},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},"order":0,},
   ],
