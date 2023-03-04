@@ -16,11 +16,15 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"resetRoom","order":1,"path":"scripts/resetRoom/resetRoom.yy",},
+    {"name":"Nop","order":3,"path":"objects/Nop/Nop.yy",},
     {"name":"Yes","order":4,"path":"sprites/Yes/Yes.yy",},
     {"name":"Notes","order":2,"path":"sprites/Notes/Notes.yy",},
+    {"name":"Confirmation","order":1,"path":"objects/Confirmation/Confirmation.yy",},
     {"name":"No","order":5,"path":"sprites/No/No.yy",},
     {"name":"RedGui","order":3,"path":"sprites/RedGui/RedGui.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Yup","order":2,"path":"objects/Yup/Yup.yy",},
     {"name":"Folder","order":1,"path":"sprites/Folder/Folder.yy",},
   ],
 }

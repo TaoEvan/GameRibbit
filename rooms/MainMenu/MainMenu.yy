@@ -1,18 +1,24 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "MainMenu",
   "creationCodeFile": "${project_dir}/rooms/Room1/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_C6CE8B","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_C6CE8B","path":"rooms/MainMenu/MainMenu.yy",},
+    {"name":"Confirmation0","path":"rooms/MainMenu/MainMenu.yy",},
+    {"name":"Yup0","path":"rooms/MainMenu/MainMenu.yy",},
+    {"name":"Nop0","path":"rooms/MainMenu/MainMenu.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C6CE8B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},"properties":[],"rotation":0.0,"scaleX":0.3,"scaleY":0.3,"x":512.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"Confirmation0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Confirmation","path":"objects/Confirmation/Confirmation.yy",},"properties":[],"rotation":0.0,"scaleX":0.3,"scaleY":0.3,"x":64.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"Yup0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Yup","path":"objects/Yup/Yup.yy",},"properties":[],"rotation":0.0,"scaleX":0.155,"scaleY":0.155,"x":70.0,"y":271.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"Nop0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Nop","path":"objects/Nop/Nop.yy",},"properties":[],"rotation":0.0,"scaleX":0.155,"scaleY":0.155,"x":336.0,"y":271.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"Background","path":"sprites/Background/Background.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
