@@ -16,7 +16,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Yes","order":4,"path":"sprites/Yes/Yes.yy",},
     {"name":"Notes","order":2,"path":"sprites/Notes/Notes.yy",},
+    {"name":"No","order":5,"path":"sprites/No/No.yy",},
+    {"name":"RedGui","order":3,"path":"sprites/RedGui/RedGui.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Folder","order":1,"path":"sprites/Folder/Folder.yy",},
   ],
